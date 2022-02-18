@@ -5,6 +5,7 @@
 ## Table of contents
 
 *
+
 *
 *
 *
@@ -13,7 +14,7 @@
 *
 
 
-# Acceptance criteria
+## Acceptance criteria
 GIVEN a social network API
 
 WHEN I enter the command to invoke the application
@@ -35,16 +36,27 @@ friends to a user’s friend list
 
 
 # Technologies used
+** Express
 
+** Moment (install and format per moment website)
+
+** Mongodb
+
+** Mongoose
 
 
 # Required installations
-
-
+Express.js
 
 
 # Additional Resources
+NPM site
 
+Google
+
+Module content and project
+
+Peer assistance
 
 
 
@@ -54,6 +66,9 @@ friends to a user’s friend list
 
 
 # License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+CLICK ON BADGE TO READ LICENSING RIGHTS!
 
 
 

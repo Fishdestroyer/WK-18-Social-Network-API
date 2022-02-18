@@ -37,9 +37,9 @@ const thoughtsController = {
     //Create/ add a new thought
     addThoughts({ params, body}, res) {
         console.log(params); 
-        thoughtsController.create(body)
+        Thoughts.create(body)
         .then(({ _id }) => {
-            return Thoughts.fidOneAndUpdate(
+            return Users.fidOneAndUpdate(
                 { _id: params.thoughtId },
                 { $push: { thoughts: _id} },
                 {new: true}
