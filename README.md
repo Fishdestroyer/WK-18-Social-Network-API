@@ -15,7 +15,8 @@ create, read, update and delete users, post's, thoughts and reactions.
   - [Acknowledgetments](#acknowledgetments)
 
 
-## Acceptance criteria
+# Acceptance criteria
+
 GIVEN a social network API
 
 WHEN I enter the command to invoke the application
@@ -36,7 +37,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 friends to a user’s friend list
 
 
-## Technologies used
+# Technologies used
 ** Express
 
 ** Moment (install and format per moment website)
@@ -46,11 +47,11 @@ friends to a user’s friend list
 ** Mongoose
 
 
-## Required installations
+# Required installations
 Express.js
 
 
-## Additional Resources
+# Additional Resources
 NPM site
 
 Google
@@ -61,19 +62,19 @@ Peer assistance
 
 
 
-## Walk through videos
+# Walk through videos
+
+https://drive.google.com/file/d/1565zNRAFWim42mRHezdsYWzZDZK4XmBs/view
 
 
-
-
-## License
+# License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 CLICK ON BADGE TO READ LICENSING RIGHTS!
 
 
 
-## Acknowledgetments
+# Acknowledgetments
 Shawn Littrell - TA
 
 
