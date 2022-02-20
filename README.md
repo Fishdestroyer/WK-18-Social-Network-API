@@ -1,17 +1,18 @@
 # WK-18-Social-Network-API
-
+This is our Week 18 module assignment. We are tasked with creating a Mongo DB and having the ability to 
+create, read, update and delete users, post's, thoughts and reactions.
 
 
 ## Table of contents
 
-*
-
-*
-*
-*
-*
-*
-*
+  - [Table of contents](#table-of-contents) 
+  - [Acceptance criteria](#acceptance-criteria)
+  - [Technologies used](#technologies-used) 
+  - [Required installations](#required-installations) 
+  - [Additional Resources](#additional-resources)
+  - [Walk through videos](#walk-through-videos)
+  - [License](#license)
+  - [Acknowledgetments](#acknowledgetments)
 
 
 ## Acceptance criteria
@@ -35,7 +36,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 friends to a user’s friend list
 
 
-# Technologies used
+## Technologies used
 ** Express
 
 ** Moment (install and format per moment website)
@@ -45,11 +46,11 @@ friends to a user’s friend list
 ** Mongoose
 
 
-# Required installations
+## Required installations
 Express.js
 
 
-# Additional Resources
+## Additional Resources
 NPM site
 
 Google
@@ -60,18 +61,20 @@ Peer assistance
 
 
 
-# Walk through videos
+## Walk through videos
 
 
 
 
-# License
+## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 CLICK ON BADGE TO READ LICENSING RIGHTS!
 
 
 
-# Acknowledgetments
+## Acknowledgetments
+Shawn Littrell - TA
+
 
 
