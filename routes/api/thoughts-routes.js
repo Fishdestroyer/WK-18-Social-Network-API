@@ -13,7 +13,7 @@ const {
 router
 .route('/')
 .get(getAllThoughts)
-
+.post(addThoughts);
 
 // /API/Thought/:id
 router
@@ -21,7 +21,7 @@ router
 .get(getThoughtsById)
 .put(updateThought)
 .delete(deleteThought)
-.post(addThoughts);
+
 
 // /API/addReactions
 router

@@ -60,9 +60,9 @@ const ThoughtsSchema = new Schema(
     }
 );
 
-ThoughtsSchema.virtual('reactionCount').get(function(){
+/*ThoughtsSchema.virtual('reactionCount').get(function(){
     return this.reaction.length;
-});
+});*/
 
 const Thoughts = model('Thoughts', ThoughtsSchema);
 
